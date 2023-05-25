@@ -22,7 +22,7 @@
 | [onnxruntime]() | 暂未整理 |
 | [Triton](./deep/Triton/README.md) | NVIDIA Triton Inference Server |
 | [TensorRT](./deep/TensorRT/README.md) | NVIDIA TensorRT 推理引擎 |
-
+| [OpenVino]() | 暂未整理 |
 
 ## 其它
 | 项                 | 说明  |
