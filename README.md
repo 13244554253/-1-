@@ -38,13 +38,7 @@
 | - | - |
 | [onnxruntime]() | 暂未整理 |
 | [Triton](./deep/Triton/README.md) | NVIDIA Triton Inference Server |
-| [TensorRT](./deep/TensorRT/README.md) | NVIDIA TensorRT 推理引擎 |
-| [OpenVino]() | 暂未整理 |
+| [TensorRT](./deep/TensorRT/README.md) | NVIDIA 快速部署应用和解决方案 |
+| [OpenVino]() | Intel 的快速部署应用和解决方案 |
 
-## 其它
-| 项                 | 说明  |
-| - | - |
-| [NVIDIA生态](./nvidia_eco.md/) | 英伟达生态体系 |
-| [解决方案](./sln/README.md) | 高性能推理优化方案 |
-| [OpenCV](./mp/OpenCV/README.md) | OpenCV GPU加速 |
 
