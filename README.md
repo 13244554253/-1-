@@ -39,6 +39,6 @@
 | [onnxruntime]() | 暂未整理 |
 | [Triton](./deep/Triton/README.md) | NVIDIA Triton Inference Server |
 | [TensorRT](./deep/TensorRT/README.md) | NVIDIA 快速部署应用和解决方案 |
-| [OpenVino]() | Intel 的快速部署应用和解决方案 |
+| [OpenVino](./deep/OpenVino/README.md) | Intel 的快速部署应用和解决方案 |
 
 
