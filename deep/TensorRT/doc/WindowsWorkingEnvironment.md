@@ -21,7 +21,7 @@ CUDA [下载链接](https://developer.nvidia.com/cuda-toolkit-archive)
 
 cuDNN [下载链接](https://developer.nvidia.com/rdp/cudnn-archive)
 
-[TensorRT CUDA cuDNN 版本对应关系表](http://10.70.21.10:8888/share/triton/-/blob/master/doc/TensorRT%E7%9F%A5%E8%AF%86%E5%BA%93%E5%BB%BA%E8%AE%BE/TensorRT_%E4%B8%8E_CUDA_%E5%92%8CcuDNN%E7%9A%84%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB%E8%A1%A8.md)
+[TensorRT CUDA cuDNN 版本对应关系表](./TensorRT_CUDA_cuDNN.md)
 
 ### 2.安装
 

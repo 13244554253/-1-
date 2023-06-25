@@ -36,7 +36,7 @@
 ### 深度学习模型部署
 | 项                 | 说明  |
 | - | - |
-| [onnxruntime]() | 暂未整理 |
+| [onnxruntime](./deep/Onnxruntime/README.md) | 一般作为模型部署中间件 |
 | [Triton](./deep/Triton/README.md) | NVIDIA Triton Inference Server |
 | [TensorRT](./deep/TensorRT/README.md) | NVIDIA 快速部署应用和解决方案 |
 | [OpenVino](./deep/OpenVino/README.md) | Intel 的快速部署应用和解决方案 |
