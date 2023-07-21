@@ -36,7 +36,7 @@ cuDNN [下载链接](https://developer.nvidia.com/rdp/cudnn-archive)
 - 将cuDNN和TensorRT中bin，include，和lib目录下的文件都复制到CUDA bin，include，lib目录下
 
 ### 4.验证
-
+                                   
 #### cuda验证
 
 - 在cmd中执行nvcc --version 成功显示CUDA版本即为安装成功

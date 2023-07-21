@@ -2,11 +2,14 @@
 
 ## CUDA文档
 
-| 标题                   |  类别      |内容                              | 
-| ---------------------- | ------- |-------------------------------- | 
-| [CUDA编程基础](./doc/CUDABasics.md)| 基础知识 |CUDA快速入门 | 
-| [CudaStream](./doc/CudaStream.md) | 技术调研 |CudaStream在推理加速中的可行性 | 
-| [CUDA相关资源](./doc/RelatedLinks.md) | 资源 |CUDA相关资源链接 | 
+| 标题                   |    描述    | 
+| ---------------------- | ------- | 
+| [NVIDIA历代GPU架构 ](./doc/CudaStream.md) | 硬件架构详解 |
+| [CUDA编程模型](./doc/CUDABasics.md)| 内核级并行 | 
+| [CUDA内存模型](./doc/CUDABasics.md)| 内核级并行 |
+| [Cuda流](./doc/CudaStream.md) | 网格级并行 | 
+| [CUDA相关资源](./doc/RelatedLinks.md) | 资源 |
+
 ## Triton实例
 
 | 标题                   | 内容                              |
