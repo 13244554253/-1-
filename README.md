@@ -6,8 +6,9 @@
 ### 计算机基础
 | 项                 | 说明  |
 | - | - |
-| 操作系统| 暂未整理 |
-| 计算机组成原理| 暂未整理 |
+| 操作系统 | 暂未整理 |
+| 计算机组成原理 | 暂未整理 |
+| 编译原理 | 暂未整理 | 
 
 
 ### 项目构建
@@ -29,7 +30,8 @@
 | 项                 | 说明  |
 | - | - |
 | [C++多线程]() | 暂未整理 |
-| [Cuda](./mp/CUDA/README.md) | NVIDIA CUDA 编程框架 |
+| [Cuda](./mp/CUDA/README.md) | NVIDIA 编程框架 |
+| [OpenCL](./mp/OpenMP/README.md) | 通用的异构计算框架不局限于硬件 |
 | [OpenMP](./mp/OpenMP/README.md) | OpenMP并行编程 |
 
 
@@ -40,5 +42,5 @@
 | [Triton](./deep/Triton/README.md) | NVIDIA Triton Inference Server |
 | [TensorRT](./deep/TensorRT/README.md) | NVIDIA 快速部署应用和解决方案 |
 | [OpenVino](./deep/OpenVino/README.md) | Intel 的快速部署应用和解决方案 |
-
+ 
 
